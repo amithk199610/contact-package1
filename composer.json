@@ -1,0 +1,21 @@
+{
+    "name": "amithk199610/contact",
+    "description": "This will send an email to admin and the data will be stored in database",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Amithk199610\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amjith.k",
+            "email": "amjith.k@cubettech.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        
+    }
+}
