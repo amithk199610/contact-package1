@@ -16,6 +16,13 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        
+
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Amithk199610\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
